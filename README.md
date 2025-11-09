@@ -40,12 +40,7 @@ Perfume-Style-Categorization-and-Recommendation/
    git clone https://github.com/sjonnavithula09/Perfume-Style-Categorization-and-Recommendation.git
    cd Perfume-Style-Categorization-and-Recommendation
    ```
-2. Install Dependencies
-   Ensure Python version 3.10 or above is installed, then run:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Launch the Streamlit Interface
+2. Launch the Streamlit Interface
    From the project root directory, execute:
    ```sh
    streamlit run streamlit.py
