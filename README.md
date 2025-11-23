@@ -36,7 +36,7 @@ Perfume-Style-Categorization-and-Recommendation/
 ├── Interface Video.mp3                 # Demo video walkthrough of the UI
 │
 └── README.md                           # Project documentation
-                         # Project documentation
+                         
 ```
 ## Instructions for Running the Model and Launching the Interface
 1. Clone the Repository
