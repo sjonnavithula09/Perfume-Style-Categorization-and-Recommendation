@@ -27,12 +27,16 @@ Perfume-Style-Categorization-and-Recommendation/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_perfume_recommender.ipynb
 │
-├── results/                            # Generated datasets and output scores
+├── results/                            # Generated datasets, scores, and logs
 │   ├── enriched_perfume_data.csv
-│   └── season_gender_keyword_scores.csv
+│   ├── season_gender_keyword_scores.csv
+│   └── feedback_log.csv                # Stored user feedback from the interface
 │
 ├── streamlit.py                        # Main Streamlit interface file
+├── Interface Video.mp3                 # Demo video walkthrough of the UI
+│
 └── README.md                           # Project documentation
+                         # Project documentation
 ```
 ## Instructions for Running the Model and Launching the Interface
 1. Clone the Repository
